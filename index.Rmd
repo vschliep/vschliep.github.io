@@ -10,3 +10,56 @@ output:
 
 I am a second year Master of Public Health Student at Columbia University, focused on healthcare policy. Learn more [about me](about.html).
 
+# My Background
+
+**PROFESSIONAL EXPERIENCE**
+
+**Gates Ventures, Health and Life Sciences Fellow**
+
+*   Supports ad hoc research in global health for Mr. Bill Gates, focusing on areas of particular need identified by World Health Organization, United Nations, and Bill and Melinda Gates Foundation personnel
+*   Leads diagnostics research effort, conducting quantitative and qualitative research to identify exemplars in innovation and diagnostic deployment in low and middle-income countries
+
+**AESARA, Inc., Healthcare Economics Intern**
+
+*   Increased project bookings >$1M by creating tailored proposals and project plans for each client and assisting engagement teams in developing budget impact models for biopharma companies
+
+**Envision Pharma Group, Engagement Manager**
+
+*   Championed merger of two 5K+ employee global biopharma companies by integrating program management offices, prioritizing healthy staff transition, joining strategic initiatives, and streamlining organizational structure
+*   Reduced Medical Affairs budget 15% through structural realignment of Medical Science Liaisons without impact to quality or quantity of interactions with external scientific thought leaders
+
+**Envision Pharma Group, Senior Consultant**
+
+*   Led 20+ person Launch Team for first FDA approved microbiome therapeutic, including development of launch strategy, scale-up of commercial team, and creation of new processes for successful launch
+*   Increased revenue $750K by building case study library of 10+ COVID-19 drug launches, purchased by five pharma companies looking to understand nuances of pandemic-era commercialization
+
+**Envision Pharma Group, Consultant**
+
+*   Anchored $300M IPO for pre-commercial biotech firm by developing S-1 document with Executive Team 
+*   Supported $3.5B in revenue gain for cystic fibrosis drug by managing post-launch scientific evidence plan
+
+**Raytheon Company, Global Trade Manager**
+
+*   Generated $500M revenue by owning export authorizations against $2.3B PATRIOT and HAWK missile contract portfolio
+*   Owned $2.7B UAE contract, resulting in industry-leading time approval by Congress for a significant arms deal
+
+**Leadership Development Program**
+
+*   Managed $2M budget and talent operations (recruitment, promotion, performance) for 200+ person Global Trade function, improving organizational effectiveness and overall relations with the US State Department (USSD)
+*   Awarded President's Achievement Award, out of 20k staff, for excellence in representing Raytheon to the USSD 
+
+**EDUCATION**
+
+**Columbia University**, Master of Public Health (New York, NY) 
+Healthcare Policy and Management
+
+**Boston College**, Bachelor of Arts (Chestnut Hill, MA)
+Double Major in Political Science and History
+
+**TECHNICAL SKILLS & INTERESTS**
+
+Technical Skills: Stata and R statistical software, Tableau and PowerBI, Six Sigma Specialist
+
+Interests: Baking (working on the perfect chocolate chip cookie), Fitness (certified personal trainer and training to run the 2023 NYC Marathon), Volunteering (spend ~4 hours per week as Big Sister with Big Sisters Association)
+
+

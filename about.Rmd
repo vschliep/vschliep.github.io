@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 output: 
   html_document:
     toc: true
@@ -8,5 +8,5 @@ output:
 
 # About
 
-I am a second year Master of Public Health Student at Columbia University, focused on healthcare policy.
+I am a second year Master of Public Health Student at Columbia University, focused on healthcare policy. My previous work in strategy consulting focused on commercial planning, medical affairs, and market access/HEOR work for biopharmaceutical companies.
 
