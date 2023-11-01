@@ -1,0 +1,12 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# About
+
+I am a second year Master of Public Health Student at Columbia University, focused on healthcare policy.
+

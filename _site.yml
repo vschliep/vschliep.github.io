@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<vas2145@columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/vschliep
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/victoriaschliep
+output:
+  html_document:
+    theme: cerulean
