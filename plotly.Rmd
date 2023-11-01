@@ -1,0 +1,62 @@
+---
+title: "Plotly"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+# Plots
+
+```{r}
+library(tidyverse)
+library(plotly)
+library(flexdashboard)
+library(p8105.datasets)
+```
+
+```{r setup, include=FALSE}
+```
+
+```{r}
+data("rest_inspec")
+
+rest_inspec =
+  sample_n(rest_inspec, size = 2500, replace = TRUE) |> 
+  select(boro, critical_flag, cuisine_description, dba, inspection_date, score, zipcode) |> 
+  drop_na(score)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A Inspection Score by Borough
+
+```{r}
+rest_inspec |> 
+  group_by(boro) |> 
+  plot_ly(x = ~boro, y = ~score,
+          type = "box")
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B Inspection Score by Cuisine Type
+
+```{r}
+rest_inspec |> 
+  mutate(text_label = str_c("Name: ", dba, "\nZip Code:" , zipcode)) |> 
+  group_by(cuisine_description) |> 
+  plot_ly(x = ~cuisine_description, y = ~score, text = ~text_label,
+          type = "scatter", mode = "markers", alpha = 0.5)
+```
+
+### Chart C Number of Inspections by Zip Code
+
+```{r}
+rest_inspec |> 
+  count(boro) |> 
+  plot_ly(x = ~boro, y = ~n, type = "bar")
+```
+```
