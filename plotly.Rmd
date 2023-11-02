@@ -1,9 +1,9 @@
 ---
 title: "Plotly"
 output: 
-  flexdashboard::flex_dashboard:
-    orientation: columns
-    vertical_layout: fill
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 # Plots
@@ -30,7 +30,9 @@ rest_inspec =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A Inspection Score by Borough
+### Chart A 
+
+Inspection Score by Borough
 
 ```{r}
 rest_inspec |> 
@@ -42,7 +44,9 @@ rest_inspec |>
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B Inspection Score by Cuisine Type
+### Chart B 
+
+Inspection Score by Cuisine Type
 
 ```{r}
 rest_inspec |> 
@@ -52,7 +56,9 @@ rest_inspec |>
           type = "scatter", mode = "markers", alpha = 0.5)
 ```
 
-### Chart C Number of Inspections by Zip Code
+### Chart C 
+
+Number of Inspections by Zip Code
 
 ```{r}
 rest_inspec |> 
